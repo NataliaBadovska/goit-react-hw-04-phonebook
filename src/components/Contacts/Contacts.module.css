@@ -1,0 +1,20 @@
+.contact{
+    display: flex;
+    font-size: 26px;
+    padding-top: 6px;
+}
+
+.info{
+    display: block;
+    margin-right: 16px;
+}
+
+.button{
+    display: block;
+    cursor: pointer;
+}
+
+.button:active{
+    background-color: blue;
+}
+

@@ -1,0 +1,36 @@
+.inputForm{
+    height: 40px;
+    width: 360px;
+    margin-bottom: 16px;
+    margin-top: 16px;
+
+    outline: none;
+    border: 1px solid black;
+    border-radius: 6px;
+}
+
+.inputForm:focus{
+    border-color: rgb(35, 70, 211);
+}
+
+.button{
+    font-size: 36px;
+    display: block;
+    border-radius: 6px;
+    border: 0px;
+    box-shadow: 6px 6px 2px 1px rgba(0, 0, 255, .2);
+    cursor: pointer;
+}
+
+.form{
+    width: 600px;
+    padding: 16px;
+
+    border: 1px solid rgb(97, 95, 95);
+}
+
+.labelName{
+    display: block;
+    font-size: 26px;
+    font-weight: 600;
+}
